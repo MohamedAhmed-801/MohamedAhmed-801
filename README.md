@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Ahmed
 
-<!--
-**MohamedAhmed-801/MohamedAhmed-801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- C++
+- HTML
+- CSS
+- JavaScript
+
+## Currently Learning
+
+- Data Engineering
+- ETL
+- Apache Spark
+
+## Projects
+
+- Food Donation Platform
+- Fuel Station Database
+- Student Management System
+- CPU Scheduler
+
+## Contact
+
+LinkedIn:https://www.linkedin.com/in/mohamedahmedfathy
+Email:mohamedahmedfathy.801@gmail.com
